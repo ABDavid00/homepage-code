@@ -1,0 +1,187 @@
+.nav-link{
+    color: #000000;
+    text-decoration: none;
+}
+
+div.nav-link{
+    color: #000000;
+    text-decoration: none;
+}
+
+h5 {
+    color: #002546;
+    opacity: 1;
+    text-align: center;
+}
+
+.white-block {
+    background: rgba(255, 255, 255, 0.70);
+    background-size: cover;
+    position: absolute;
+    bottom: 35px;
+    width: 100%;
+    left: 0px;
+}
+
+
+.white-bg {
+    background-color: #ffffff;
+    padding: 3px;
+}
+
+.pic-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.icon-link {
+    color: #000000;
+    text-decoration: none;
+}
+
+p.blue-block {
+    display: table;
+    margin: 0px auto 0px auto;
+    padding: 15px; font-size: 15px; background-color: #002546; color:#ffffff;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Arial";
+    color: #002546;
+}
+
+h2.review{
+    text-align: center;
+    font-family: "Lucida Grande";
+    font-size: 25px;
+    color: #2E2D2D;
+}
+
+.col-lg-5.left {
+    background-image: url("https://via.placeholder.com/100");
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+
+.col-lg-5.right {
+    background-image: url("https://via.placeholder.com/100");
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: Arial;
+    color: #2E2D2D;
+}
+
+.white-block-2 {
+    background: rgba(255, 255, 255, 0.50);
+    background-size: cover;
+    position: absolute;
+    text-align: center;
+    height: 150px;
+    width: 300px;
+    bottom: 60px;
+    left: 140px;
+}
+
+div.col-6.right {
+    background-image: url("https://via.placeholder.com/300");
+    height: 300px;
+}
+
+div.col-6.left {
+    background-color: #F0EBE3;
+    text-align: center;
+}
+
+.reg-link{
+    color: #000000;
+    text-decoration: none;
+}
+
+h5.white-block-2 {
+    font-family: "Helvetica Neue";
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.wrapper > div:first-child {
+    margin-right: 15px;
+}
+.wrapper img {
+    display: block;
+    max-width: 100%;
+}
+.white-block-shop {
+    background: rgba(255, 255, 255, 0.50);
+    background-size: cover;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    right: 0px;
+    bottom: 30px;
+}
+
+div.anime-woody {
+    /*background: url("https://i.imgur.com/mmbTUUK.jpg") no-repeat;*/
+    /*background-size: cover;*/
+    background-image: url("https://via.placeholder.com/600");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    height: 600px;
+    width: 100%;
+}
+
+div.white-block-shop {
+    text-align: center;
+    color: #002546;
+}
+
+.navbar-nav .dropdown-menu {
+    position: absolute;
+}
+
+div.news {
+    background: url("https://via.placeholder.com/300") no-repeat center center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    position: relative;
+}
+
+div.socialMedia {
+    background: #DBF0F2;
+}
+
+div.pic1{
+    background: url("https://via.placeholder.com/300") no-repeat center center;
+    background-size: cover;
+    height: 300px;
+}
+
+div.pic2{
+    background: url("https://via.placeholder.com/300") no-repeat center center;
+    background-size: cover;
+    height: 300px;
+}
+
+div.pic3{
+    background: url("https://via.placeholder.com/300") no-repeat center center;
+    background-size: cover;
+    height: 300px;
+}
